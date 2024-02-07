@@ -19,6 +19,5 @@ Hey there! 👋 I'm Abhay Tiwari, a 19-year-old Computer Science undergraduate w
   - Twitter at [abhaytiwaricode](https://twitter.com/abhaytiwaricode)
   - LinkedIn at [abhaytiwaricode](https://www.linkedin.com/in/abhaytiwaricode)
   - Instagram at [abhaytiwaricode](https://instagram.com/abhaytiwaricode)
-  - Mail me at **abhaytiwariwork@gmail.com**
     
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
