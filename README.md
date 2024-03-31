@@ -13,4 +13,4 @@ I'm currently looking for an internship to further enhance my skills and knowled
 📧 Email: abhaytiwariwork@outlook.com
 Let's collaborate and create something amazing together!🌟
 
-Feel free to get in touch for work opportunities or just to chat!💬
+Feel free to get in touch for work opportunities or just to chat!
