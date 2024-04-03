@@ -1,5 +1,5 @@
 ### About Me:
-👋 Hey there! I'm Abhay Tiwari, a BCA 2nd-year, 4th-semester student deeply passionate about Software Development, especially in the MERN Stack Development. Currently, I'm on a journey to become a skilled MERN Stack Developer, eager to learn, grow, and make a meaningful impact in the tech world. 
+👋 Hey there! I'm Abhay Tiwari, a BCA 2nd-year, 4th-semester student passionate about Software Development, especially in the MERN Stack Development. Currently, I'm on a journey to become a skilled MERN Stack Developer, eager to learn, grow, and make a meaningful impact in the tech world. 
 
 I'm currently looking for an internship to further enhance my skills and knowledge. Every day, I strive to learn and grow, aiming to make a meaningful impact. 🚀
 
