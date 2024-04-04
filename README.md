@@ -9,8 +9,9 @@ I'm currently looking for an internship to further enhance my skills and knowled
 - **Database Management:** I handle MongoDB and MySQL for efficient data storage and retrieval to ensure smooth app functionality.
 - **Version Control:** I use Git and GitHub for easy version control, helping with collaboration and code management.
 
-### Live and breathe GitHub:
-[https://github-readme-stats.vercel.app/api?username abhaytiwaricode&show_icons=true&theme=transparent]
+### Live and breathe GitHub 
+
+[![Abhay Tiwari's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhaytiwaricode&show_icons=true&icon_color=586069&text_color=586069&bg_color=fff&line_height=30&hide_title=true&title_color=0366d6)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contact Me:
 📧 Email: abhaytiwariwork@outlook.com
