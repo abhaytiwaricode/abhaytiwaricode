@@ -14,9 +14,3 @@ Feel free to connect with me at 📧 abhaytiwariwork@outlook.com for work opport
 ### Live and breathe GitHub 
 
 [![Abhay Tiwari's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhaytiwaricode&show_icons=true&icon_color=586069&text_color=586069&bg_color=fff&line_height=30&hide_title=true&title_color=0366d6)](https://github.com/anuraghazra/github-readme-stats)
-
-### Contact Me:
-📧 Email: abhaytiwariwork@outlook.com
-Let's collaborate and create something amazing together!🌟
-
-Feel free to get in touch for work opportunities or just to chat!
