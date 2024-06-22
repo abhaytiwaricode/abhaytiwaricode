@@ -1,8 +1,6 @@
-### About Me:
-
 👋 Hello! I'm Abhay Tiwari, a BCA 3rd-year, 5th-semester student, 🎓 with a strong passion for Software Development, particularly in the MERN Stack Development. I'm currently on a mission to become a proficient MERN Stack Developer, eager to learn, grow, and contribute meaningfully to the tech industry.
 
-🌟 I have a solid foundation in HTML, CSS, and JavaScript, and I excel in utilizing libraries and frameworks like React.js for front-end development, crafting responsive and user-friendly interfaces.
+🌟 I have a solid foundation in HTML, CSS, and JavaScript, TypeScript, and I excel in utilizing libraries and frameworks like React.js, Next.js for front-end development, crafting responsive and user-friendly interfaces.
 
 🌐 On the back-end, I'm proficient in Node.js and Express.js, building robust server-side applications. I also have hands-on experience with databases like MongoDB and MySQL for data storage and retrieval.
 
