@@ -1,4 +1,4 @@
-👋 Hello! I'm Abhay Tiwari, a BCA 3rd-year, 5th-semester student, 🎓 with a strong passion for Software Development, particularly in the MERN Stack Development. I'm currently on a mission to become a proficient MERN Stack Developer, eager to learn, grow, and contribute meaningfully to the tech industry.
+👋 Hello! I'm Abhay Kumar Tiwari, a BCA 3rd-year, 5th-semester student, 🎓 with a strong passion for Software Development, particularly in the MERN Stack Development. I'm currently on a mission to become a proficient MERN Stack Developer, eager to learn, grow, and contribute meaningfully to the tech industry.
 
 🌟 I have a solid foundation in HTML, CSS, and JavaScript, TypeScript, and I excel in utilizing libraries and frameworks like React.js, Next.js for front-end development, crafting responsive and user-friendly interfaces.
 
