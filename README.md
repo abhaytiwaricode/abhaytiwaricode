@@ -5,7 +5,7 @@ I am a highly motivated and results-oriented BCA 3rd-year student with a strong 
 **Technical Skills:**
 
 Languages:
- - Advanced: C/C++
+ * Advanced: C/C++
  * Intermediate: JavaScript, TypeScript
  * Novice: Java
 
