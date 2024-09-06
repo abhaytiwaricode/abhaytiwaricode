@@ -1,5 +1,4 @@
 **Summary:**
-
 I am a highly motivated and results-oriented BCA 3rd-year student with a strong foundation in computer science and a passion for software development. I am currently specializing in the MERN stack (MongoDB, Express.js, React.js, Next.js) and possess a strong understanding of web development principles. I am eager to leverage my skills and knowledge to contribute to a dynamic and innovative team.
 
 **Technical Skills:**
