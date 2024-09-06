@@ -1,11 +1,35 @@
-👋 Hello! I'm Abhay Kumar Tiwari, a BCA 3rd-year, 5th-semester student, 🎓 with a strong passion for Software Development, particularly in the MERN Stack Development. I'm currently on a mission to become a proficient MERN Stack Developer, eager to learn, grow, and contribute meaningfully to the tech industry.
+Abhay Kumar Tiwari - MERN Stack Developer (Aspiring Full-Stack)
 
-🌟 I have a solid foundation in HTML, CSS, and JavaScript, TypeScript, and I excel in utilizing libraries and frameworks like React.js, Next.js for front-end development, crafting responsive and user-friendly interfaces.
+Summary:
+I am a highly motivated and results-oriented BCA 3rd-year student with a strong foundation in computer science and a passion for software development. I am currently specializing in the MERN stack (MongoDB, Express.js, React.js, Next.js) and possess a strong understanding of web development principles. I am eager to leverage my skills and knowledge to contribute to a dynamic and innovative team.
 
-🌐 On the back-end, I'm proficient in Node.js and Express.js, building robust server-side applications. I also have hands-on experience with databases like MongoDB and MySQL for data storage and retrieval.
+Technical Skills:
+Languages:
+ * Advanced: C/C++
+ * Intermediate: JavaScript, TypeScript
+ * Novice: Java
 
-🔧 To manage my codebase effectively, I employ Git and GitHub for version control, ensuring seamless collaboration and efficient development.
+Frameworks & Libraries:
+ * Frontend: React.js, Next.js, Bootstrap, Tailwind CSS
+ * Backend: Node.js, Express.js
 
-🖥 I take pleasure in creating web applications that provide exceptional user experiences, and I'm always open to new opportunities to expand my knowledge and skills.
+Databases:
+ * MySQL
+ * MongoDB
 
-Feel free to reach out to me at 📧 abhaytiwariwork@outlook.com for work opportunities or a friendly chat! Let's collaborate and bring our ideas to life, creating something amazing together! 💬
+Tools & Platforms:
+ * Git & GitHub (Version Control)
+ * Linux & Windows (Operating Systems)
+ * Visual Studio Code, Webstorm, Notepad++ (IDEs)
+
+Additional Skills:
+ * Strong analytical and problem-solving skills
+ * Excellent communication and teamwork abilities
+ * Self-motivated and quick learner with a dedication to continuous improvement
+ * Ability to work independently and as part of a team
+
+Availability:
+I am actively seeking internship or full-time opportunities to further develop my skills and contribute to real-world projects. I am eager to learn and grow in a fast-paced environment and collaborate with talented professionals.
+
+Contact:
+abhaytiwariwork@outlook.com
