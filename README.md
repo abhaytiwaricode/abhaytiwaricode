@@ -43,6 +43,7 @@ I'm a software engineer with a passion for building high-quality, user-friendly 
 **Let's connect!**
 
 Linkedin: [https://linkedin.com/in/abhaytiwaricode]
+
 Portfolio: [https://abhaytiwaricode.github.io]
 
 E-mail: [abhaytiwariwork@outlook.com]
