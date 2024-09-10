@@ -1,2 +1,1 @@
-
 As a dedicated Full-Stack Developer with a strong focus on building high-quality, user-friendly web applications, I specialize in the MERN Stack (MongoDB, Express.js, React, Node.js). My expertise spans both front-end and back-end development, allowing me to create seamless, efficient, and engaging digital experiences. I am committed to leveraging my technical skills to solve complex problems and deliver innovative solutions.
