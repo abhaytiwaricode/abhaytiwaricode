@@ -1,13 +1,17 @@
-### **Software Engineer**
+I'm a software engineer with a passion for building high-quality, user-friendly web applications. I have a strong background in full-stack development, with expertise in technologies like -
 
-**Experienced full-stack web developer** with a passion for creating innovative and user-friendly applications. Proficient in a wide range of technologies, including:
+### Software Engineer
+
+**Skills:**
 
 **Languages:**
+
 * **Advanced:** C/C++
 * **Intermediate:** JavaScript, TypeScript
 * **Novice:** Java
 
 **Frameworks & Libraries:**
+
 * React.js
 * Next.js
 * Node.js
@@ -16,10 +20,12 @@
 * Tailwind CSS
 
 **Databases:**
+
 * MySQL
 * MongoDB
 
 **Tools & Platforms:**
+
 * Git
 * Linux
 * Windows
@@ -29,24 +35,20 @@
 * WebStorm
 
 **Technologies:**
+
 * HTML
 * CSS
 
-**Skills and Experience:**
-* **Full-stack development:** Expertise in designing, building, and maintaining web applications from the front-end to the back-end.
-* **Problem-solving:** Ability to identify and resolve complex technical challenges.
-* **Collaboration:** Experience working effectively in teams to achieve project goals.
-* **Continuous learning:** Passion for staying up-to-date with the latest industry trends and technologies.
+**Interests:**
 
-**Additional Interests:**
-* Hiking and outdoor activities
 * Exploring new technologies
+* Reading about industry trends
 * Contributing to open-source projects
+* Hiking and spending time outdoors
 
-**Looking for opportunities to leverage my skills and contribute to meaningful projects.**
+**Let's connect!**
+[https://linkedin.com/in/abhaytiwaricode]
+[https://abhaytiwaricode.github.io]
 
-**[https://abhaytiwaricode.github.io]**
+E-mail: [abhaytiwariwork@outlook.com]
 
-**[https://linkedin.com/in/abhaytiwaricode]**
-
-**[abhaytiwariwork@outlook.com]**
