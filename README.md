@@ -1,24 +1,52 @@
-I'm a software engineer with a passion for building high-quality, user-friendly web applications. I have a strong background in full-stack development, with expertise in technologies like -
+### **Software Engineer**
 
-Languages:
-• Advance:- C/C++
-• Intermediate:- JavaScript, TypeScript
-• Novice:- Java
+**Experienced full-stack web developer** with a passion for creating innovative and user-friendly applications. Proficient in a wide range of technologies, including:
 
-Frameworks & Library:
-• React.js • Next.js • Node.js • Express.js
-• Bootstrap • Tailwind CSS
+**Languages:**
+* **Advanced:** C/C++
+* **Intermediate:** JavaScript, TypeScript
+* **Novice:** Java
 
-Databases:
-• MySQL • MongoDB
+**Frameworks & Libraries:**
+* React.js
+* Next.js
+* Node.js
+* Express.js
+* Bootstrap
+* Tailwind CSS
 
-Tools & Platforms:
-• Git • Linux • Windows • GitHub
-• Visual Studio Code • Notepad++
-• WebStorm
+**Databases:**
+* MySQL
+* MongoDB
 
-Technologies:
-• HTML • CSS
+**Tools & Platforms:**
+* Git
+* Linux
+* Windows
+* GitHub
+* Visual Studio Code
+* Notepad++
+* WebStorm
 
+**Technologies:**
+* HTML
+* CSS
 
-In my free time, I enjoy exploring new technologies, reading about the latest industry trends, and contributing to open-source projects. I'm also an avid hiker and enjoy spending time outdoors, connecting with nature and recharging my creativity.
+**Skills and Experience:**
+* **Full-stack development:** Expertise in designing, building, and maintaining web applications from the front-end to the back-end.
+* **Problem-solving:** Ability to identify and resolve complex technical challenges.
+* **Collaboration:** Experience working effectively in teams to achieve project goals.
+* **Continuous learning:** Passion for staying up-to-date with the latest industry trends and technologies.
+
+**Additional Interests:**
+* Hiking and outdoor activities
+* Exploring new technologies
+* Contributing to open-source projects
+
+**Looking for opportunities to leverage my skills and contribute to meaningful projects.**
+
+**[https://abhaytiwaricode.github.io]**
+
+**[https://linkedin.com/in/abhaytiwaricode]**
+
+**[abhaytiwariwork@outlook.com]**
