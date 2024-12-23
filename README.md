@@ -1,15 +1,13 @@
-# Hi there, I'm Abhay Tiwaricode 👋
+# Hi there, I'm Abhay Tiwari 👋
 
-![Profile views](https://gpvc.arturio.dev/abhaytiwaricode)
-
-Welcome to my GitHub profile! I'm a passionate developer with a love for coding and learning new technologies. Here's a bit about me:
+Welcome to my GitHub profile! I'm a passionate student with a love for coding and learning new technologies. Here's a bit about me:
 
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **Real-Time Collaborative Document Editor**
 - 🌱 I’m currently learning **Angular**
 - 👯 I’m looking to collaborate on **[Projects or Open Source Initiatives]**
-- 💬 Ask me about **Web Development and Open Source Contribution**
+- 💬 Ask me about **Web Development**
 - 📫 How to reach me: **abhaytiwariwork@outlook.com**
 
 ## 🛠️ Languages and Tools
