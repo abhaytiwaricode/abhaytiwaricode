@@ -15,13 +15,14 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ## 🛠️ Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 
 ## 📈 GitHub Stats
 
