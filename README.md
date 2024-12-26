@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate student with a love for coding an
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **Real-Time Collaborative Document Editor**
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Software Development**
 - 👯 I’m looking to collaborate on **[Projects or Open Source Initiatives]**
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me: **abhaytiwariwork@outlook.com**
